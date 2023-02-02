@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">1st Zoom task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="owner_name">Owner name / User name</string>
+    <string name="owner_hint">e.g: MasterBlaster99</string>
+    <string name="repo_name">Repository name</string>
+    <string name="repo_hint">e.g: Retrofit</string>
+    <string name="add_repo">Add Repo</string>
+    <string name="no_repos">Track your favourite repos</string>
+    <string name="home">Home</string>
+    <string name="share">Share</string>
+    <string name="add_repository">Add Repository</string>
+    <string name="add_now">Add Now !</string>
+</resources>
